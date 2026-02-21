@@ -1,8 +1,6 @@
-# Huffman Encoding Algorithm Implementation
+# Huffman Encoding Algorithm
 
-This is an algorithms and data structures courses final work.
-
-Graphical interface along with encode/decode functionality based on Huffman tree are provided.
+Graphical interface with encode/decode capabilities.
 
 ## Prerequisites
 
@@ -11,4 +9,4 @@ Graphical interface along with encode/decode functionality based on Huffman tree
 
 ## Limitations
 
-This work is not intended to be applied in real compression/decompression scenarios due to obvious inefficiency.
+This work is not intended to be applied in real compression/decompression scenarios.
